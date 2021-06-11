@@ -1243,3 +1243,11 @@ System memory in use after: 161.4 MB.
 Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2266.
 Total: 2.488919 ms (FindLiveObjects: 0.315143 ms CreateObjectMapping: 0.119104 ms MarkObjects: 1.917676 ms  DeleteObjects: 0.135480 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 1182.550080 seconds.
+  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0075.png
+  artifactKey: Guid(b66ecbabe3893624d81e108ba30125ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0075.png using Guid(b66ecbabe3893624d81e108ba30125ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd60a9e00210c9a9cce2308414e7a26f2') in 0.108820 seconds
+  Import took 0.115738 seconds .
+
