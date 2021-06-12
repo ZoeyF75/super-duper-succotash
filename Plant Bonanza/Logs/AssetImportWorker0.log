@@ -1251,3 +1251,43 @@ Received Import Request.
 Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0075.png using Guid(b66ecbabe3893624d81e108ba30125ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd60a9e00210c9a9cce2308414e7a26f2') in 0.108820 seconds
   Import took 0.115738 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 51415.168139 seconds.
+  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0218.asset
+  artifactKey: Guid(a0990aa7aef9c4998ab96bc5caf014c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0218.asset using Guid(a0990aa7aef9c4998ab96bc5caf014c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe91b86f6938541afbc5cb0164877ce9') in 1.255089 seconds
+  Import took 1.377410 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 546.986331 seconds.
+  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0209.asset
+  artifactKey: Guid(3808e1036559b4ccda945aa2aa7192d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0209.asset using Guid(3808e1036559b4ccda945aa2aa7192d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47e64ea30b0194fb11b25ec7000c3563') in 0.026690 seconds
+  Import took 0.035913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.280667 seconds.
+  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0209.png
+  artifactKey: Guid(4a54843975b88a941b95f04980eb101f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0209.png using Guid(4a54843975b88a941b95f04980eb101f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a9c6ca4d20a3d241253f3410ee3cba6') in 0.036603 seconds
+  Import took 0.042007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 92.557816 seconds.
+  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0087.asset
+  artifactKey: Guid(7e8d26c9de5a540f58991165da29a617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0087.asset using Guid(7e8d26c9de5a540f58991165da29a617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db92b87be27b7ed5c6eca03080de0c77') in 0.011891 seconds
+  Import took 0.023512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.084580 seconds.
+  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0088.asset
+  artifactKey: Guid(7b9ed799514af4457822afd2a16a1e4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0088.asset using Guid(7b9ed799514af4457822afd2a16a1e4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44b5d7923c33ec66d19dad18bddf8c69') in 0.019309 seconds
+  Import took 0.023789 seconds .
+
