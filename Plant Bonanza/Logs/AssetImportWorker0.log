@@ -1307,3 +1307,11 @@ Received Import Request.
 Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0036.asset using Guid(c458f2a6fdc884d20a42c540be8a316a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d31d9de8a5c3cefeca378510bf3eb68') in 0.052416 seconds
   Import took 0.063928 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 897.236347 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3be35322f6257a9f44561c54a47ec410') in 0.071402 seconds
+  Import took 0.104592 seconds .
+
