@@ -12,1306 +12,192 @@ AssetImportWorker0
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-51707
+52699
 Successfully changed project path to: /Users/zoeyfarago/lighthouse/post/Plants/Plant Bonanza
 /Users/zoeyfarago/lighthouse/post/Plants/Plant Bonanza
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 92.43 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 77.78 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.7f1 (dd97f2c94397)
 [Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.7f1/Unity.app/Contents/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path /Users/zoeyfarago/lighthouse/post/Plants/Plant Bonanza/Assets
 GfxDevice: creating device client; threaded=0
-2021-06-11 12:51:14.773 Unity[12249:1752447] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics 650 (low power)
-2021-06-11 12:51:14.773 Unity[12249:1752447] Metal devices available: 1
-2021-06-11 12:51:14.773 Unity[12249:1752447] 0: Intel(R) Iris(TM) Plus Graphics 650 (low power)
-2021-06-11 12:51:14.774 Unity[12249:1752447] Using device Intel(R) Iris(TM) Plus Graphics 650 (low power)
+2021-06-15 18:12:13.588 Unity[11662:3004766] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics 650 (low power)
+2021-06-15 18:12:13.588 Unity[11662:3004766] Metal devices available: 1
+2021-06-15 18:12:13.588 Unity[11662:3004766] 0: Intel(R) Iris(TM) Plus Graphics 650 (low power)
+2021-06-15 18:12:13.589 Unity[11662:3004766] Using device Intel(R) Iris(TM) Plus Graphics 650 (low power)
 Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics 650
 Initialize mono
 Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.7f1/Unity.app/Contents/Managed'
 Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.7f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = '/Applications/Unity/Hub/Editor/2020.3.7f1/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56249
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56662
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: /Applications/Unity/Hub/Editor/2020.3.7f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Registered in 0.003620 seconds.
+Registered in 0.003934 seconds.
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 62.86 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 61.00 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.736 seconds
+- Completed reload, in  1.732 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001684 seconds.
+Registered in 0.002140 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 61.79 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 62.70 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.366 seconds
+- Completed reload, in  1.422 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launching external process: /Applications/Unity/Hub/Editor/2020.3.7f1/Unity.app/Contents/Tools/UnityShaderCompiler
 Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
-Refreshing native plugins compatible for Editor in 1.48 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 2.23 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 146.9 MB.
-System memory in use after: 146.8 MB.
+System memory in use before: 148.1 MB.
+System memory in use after: 148.0 MB.
 
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2251.
-Total: 4.873611 ms (FindLiveObjects: 0.967655 ms CreateObjectMapping: 0.465381 ms MarkObjects: 3.261444 ms  DeleteObjects: 0.171234 ms)
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2255.
+Total: 2.757100 ms (FindLiveObjects: 0.454907 ms CreateObjectMapping: 0.113500 ms MarkObjects: 2.023687 ms  DeleteObjects: 0.163715 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0046.png
-  artifactKey: Guid(d11968ec1d85a8d40af80f586831097a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0046.png using Guid(d11968ec1d85a8d40af80f586831097a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97037aa4c7f7379c8d7b2aec07ba5f40') in 0.640300 seconds
-  Import took 0.645401 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000337 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0088.png
-  artifactKey: Guid(bbfbe621a48eb4e4bad7f142b59167ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0088.png using Guid(bbfbe621a48eb4e4bad7f142b59167ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e818ea872e51fdbb176646ca96f41b2') in 0.014234 seconds
-  Import took 0.019957 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000201 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0087.png
-  artifactKey: Guid(e158764228ff5194fa693e11eb884233) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0087.png using Guid(e158764228ff5194fa693e11eb884233) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c1b60998a9998af290a4abf9191944c') in 0.011290 seconds
-  Import took 0.017382 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000255 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0075.png
-  artifactKey: Guid(b66ecbabe3893624d81e108ba30125ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0075.png using Guid(b66ecbabe3893624d81e108ba30125ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8580085dd75d1725abcec7649a1b462') in 0.017771 seconds
-  Import took 0.025311 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 178.180620 seconds.
-  path: Packages/com.unity.2d.spriteshape/Editor/ObjectMenuCreation/DefaultAssets/Sprite Shapes/Closed Sprite Shape.prefab
-  artifactKey: Guid(c0583b4e855c74b8c82e7b9b5efb5ce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.2d.spriteshape/Editor/ObjectMenuCreation/DefaultAssets/Sprite Shapes/Closed Sprite Shape.prefab using Guid(c0583b4e855c74b8c82e7b9b5efb5ce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03d453d2513675c3d69504ecf4ddfa3f') in 0.265918 seconds
-  Import took 0.270215 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000247 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0013.prefab
-  artifactKey: Guid(38f4d7b64fb60a74fa923429b9b3c46f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0013.prefab using Guid(38f4d7b64fb60a74fa923429b9b3c46f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1d957109ad2bbffc779333179316975') in 0.106718 seconds
-  Import took 0.110920 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000212 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0003.prefab
-  artifactKey: Guid(c0d50d42061604b4da031181e7098fa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0003.prefab using Guid(c0d50d42061604b4da031181e7098fa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cf164a234362e20873d480054d9fd4f') in 0.026628 seconds
-  Import took 0.038000 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000243 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0011.prefab
-  artifactKey: Guid(7d2ade1ce6c7a504f9b7536605a23093) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0011.prefab using Guid(7d2ade1ce6c7a504f9b7536605a23093) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a95cf39389efe55493c28e20a8f6c7b5') in 0.029863 seconds
-  Import took 0.039808 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000248 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0002.prefab
-  artifactKey: Guid(bf88522084199e947907aef586ad279f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0002.prefab using Guid(bf88522084199e947907aef586ad279f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bb92e51aca06576e1f0b07a328cd8b1') in 0.032842 seconds
-  Import took 0.044591 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000256 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0004.prefab
-  artifactKey: Guid(03c8d949d98c9d2448e5d78b927621ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0004.prefab using Guid(03c8d949d98c9d2448e5d78b927621ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b2594bfa919ad64eb332b649e09fcae') in 0.030599 seconds
-  Import took 0.040308 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000188 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0012.prefab
-  artifactKey: Guid(2d45da90f2b290a4b9706e55f4c7039e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0012.prefab using Guid(2d45da90f2b290a4b9706e55f4c7039e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a4f76f9fd3346ca2fe14e6d097cd610') in 0.036926 seconds
-  Import took 0.041528 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000215 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0000.prefab
-  artifactKey: Guid(a6b0ac1f4473d174da7bfc54b07881c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0000.prefab using Guid(a6b0ac1f4473d174da7bfc54b07881c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bb9e6e033fb42597d72cd1ce85db93e') in 0.042513 seconds
-  Import took 0.051961 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000230 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0009.prefab
-  artifactKey: Guid(b9d5da9f1bc8c6a428751ac41765f137) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0009.prefab using Guid(b9d5da9f1bc8c6a428751ac41765f137) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd877912838f5e9b60f8aaddd61e013fe') in 0.033313 seconds
-  Import took 0.037432 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000232 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0006.prefab
-  artifactKey: Guid(26d57192e2b87d846b0969b9e783cc61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0006.prefab using Guid(26d57192e2b87d846b0969b9e783cc61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a24dfd9efbbcf537a4869565a7ddae1') in 0.040644 seconds
-  Import took 0.044295 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000190 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0010.prefab
-  artifactKey: Guid(17a0c7ea5d598fb46825e369be33763a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0010.prefab using Guid(17a0c7ea5d598fb46825e369be33763a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a500e67e10eca4944f976fbb3691eb5') in 0.043106 seconds
-  Import took 0.046276 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000184 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0015.prefab
-  artifactKey: Guid(6627914dbf71ac34c90a1524971ed48b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0015.prefab using Guid(6627914dbf71ac34c90a1524971ed48b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dc8ca55f0f60d0b3f70f9523a01926c') in 0.042171 seconds
-  Import took 0.045795 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000237 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0001.prefab
-  artifactKey: Guid(ea49a3e197bd3f54faf5fa53299cb6c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0001.prefab using Guid(ea49a3e197bd3f54faf5fa53299cb6c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09f518f969a5bf37ca3c912a50e32d9e') in 0.038225 seconds
-  Import took 0.042178 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000265 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0005.prefab
-  artifactKey: Guid(837b899dbc7a45f4bbfac8da3fec0a2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0005.prefab using Guid(837b899dbc7a45f4bbfac8da3fec0a2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a0cd4fae4fd548cf0162d972e895e2c') in 0.036620 seconds
-  Import took 0.040167 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000193 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0008.prefab
-  artifactKey: Guid(f212d084658b1d64b9d2f4fc3264f9d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0008.prefab using Guid(f212d084658b1d64b9d2f4fc3264f9d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '211fdde487870f4cae75f0f0b7fc5111') in 0.032354 seconds
-  Import took 0.037816 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000485 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0014.prefab
-  artifactKey: Guid(dab64d92d0839154db1eade84cf11cf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0014.prefab using Guid(dab64d92d0839154db1eade84cf11cf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9286d082d280d83c6efdf07cd0c743e8') in 0.025626 seconds
-  Import took 0.030533 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000250 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0007.prefab
-  artifactKey: Guid(0f5f390aec0ade942a709000da87d9c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0007.prefab using Guid(0f5f390aec0ade942a709000da87d9c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e652512a3b28787c3946a3a79dc661a') in 0.030243 seconds
-  Import took 0.035003 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 179.748827 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0016.prefab
-  artifactKey: Guid(19ebed2e16cd4f84ca4dbc2d6d020047) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0016.prefab using Guid(19ebed2e16cd4f84ca4dbc2d6d020047) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a93fdb750423c8e8d715297ed0ec587') in 0.035579 seconds
-  Import took 0.041245 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000238 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0018.prefab
-  artifactKey: Guid(25fbf8db67ca8204288e082becba894d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0018.prefab using Guid(25fbf8db67ca8204288e082becba894d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ca3f71fbd4dc03c5a2b7c7c7ed39ed7') in 0.029137 seconds
-  Import took 0.033294 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000247 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0019.prefab
-  artifactKey: Guid(3c659a2563c91604f923f894558a9a21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0019.prefab using Guid(3c659a2563c91604f923f894558a9a21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab1b537c0844eb9c234344e801b026b2') in 0.039942 seconds
-  Import took 0.049196 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000189 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0017.prefab
-  artifactKey: Guid(b22875e226a5b1048873d8cc2993a5de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0017.prefab using Guid(b22875e226a5b1048873d8cc2993a5de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a711e8378b88068da4dab0755760e3c') in 0.027903 seconds
-  Import took 0.031876 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 15.007088 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0020.prefab
-  artifactKey: Guid(9d952a03ab60b4941a66649eb83a0816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0020.prefab using Guid(9d952a03ab60b4941a66649eb83a0816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0f45fd54a2eef05cf987c7c3a0230b9') in 0.035361 seconds
-  Import took 0.040090 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000228 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0021.prefab
-  artifactKey: Guid(14058525519bb6d4696e576f8102185c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0021.prefab using Guid(14058525519bb6d4696e576f8102185c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74e173bd6fb9881d3e8f9b613d40c1b0') in 0.012013 seconds
-  Import took 0.017199 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000243 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0023.prefab
-  artifactKey: Guid(afa731b37500dd14ca79c2c594afea3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0023.prefab using Guid(afa731b37500dd14ca79c2c594afea3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e34b60a881acb6c673e3634fb242c1c') in 0.043312 seconds
-  Import took 0.047632 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000286 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0022.prefab
-  artifactKey: Guid(8cb14b1dc38ea1b4684c18a5ee20b92a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0022.prefab using Guid(8cb14b1dc38ea1b4684c18a5ee20b92a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc6d7e01d3f1fe6527d7a6e72bbd1ee2') in 0.031103 seconds
-  Import took 0.035527 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000235 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0024.prefab
-  artifactKey: Guid(35fb6bcefcd54f242a8f0b6d25dfa7ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0024.prefab using Guid(35fb6bcefcd54f242a8f0b6d25dfa7ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38442aa6d6c62798cd5f0ab2109362a9') in 0.036816 seconds
-  Import took 0.040891 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000182 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0025.prefab
-  artifactKey: Guid(6d38a4e962d2e23428f5a0493ebf1f02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0025.prefab using Guid(6d38a4e962d2e23428f5a0493ebf1f02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '788c7498d85c595f621ae85477ec950c') in 0.029314 seconds
-  Import took 0.033895 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000291 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0026.prefab
-  artifactKey: Guid(47ac33c8a2846cc42ae616a65cd7880d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0026.prefab using Guid(47ac33c8a2846cc42ae616a65cd7880d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cc55944a5f2473f114ced01ab52df4f') in 0.031868 seconds
-  Import took 0.041796 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000233 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0027.prefab
-  artifactKey: Guid(6fdef16f6f7592a429b008ccb3a6a1a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0027.prefab using Guid(6fdef16f6f7592a429b008ccb3a6a1a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb03b8cc07ffc012bfc52215918b04b6') in 0.036626 seconds
-  Import took 0.041283 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000180 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0028.prefab
-  artifactKey: Guid(03b8320646b09b34995e773bd283424e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0028.prefab using Guid(03b8320646b09b34995e773bd283424e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd63dc73d6a550bfad7f9bf83b5cc029c') in 0.034739 seconds
-  Import took 0.039287 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.030841 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0029.prefab
-  artifactKey: Guid(da01964b063114345a897e40281c830e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0029.prefab using Guid(da01964b063114345a897e40281c830e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87ba70ac55e9ac441bf10fb938741211') in 0.037852 seconds
-  Import took 0.051975 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000190 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0030.prefab
-  artifactKey: Guid(827e1c138efc3dc4ba0a29af74206cb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0030.prefab using Guid(827e1c138efc3dc4ba0a29af74206cb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32e3f04c6fc7b14fac41411cc48c4953') in 0.056603 seconds
-  Import took 0.067869 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000292 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0032.prefab
-  artifactKey: Guid(c0df3900b9b93dd4ab80a5d6088f056f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0032.prefab using Guid(c0df3900b9b93dd4ab80a5d6088f056f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48b4fd4ebc1bb6746d12b0aa8c35ef8a') in 0.036546 seconds
-  Import took 0.040491 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000176 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0031.prefab
-  artifactKey: Guid(88678aae993041b49895f61b0019d372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0031.prefab using Guid(88678aae993041b49895f61b0019d372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c2b57b27f7a6b0d6a48417159c563a8') in 0.037574 seconds
-  Import took 0.041509 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.423379 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0033.prefab
-  artifactKey: Guid(d3febfa8254a72e48b52c45f3da0c850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0033.prefab using Guid(d3febfa8254a72e48b52c45f3da0c850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32212431f3539468e699bdf3acc4dba7') in 0.048673 seconds
-  Import took 0.057773 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000218 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0034.prefab
-  artifactKey: Guid(33d89472269f9374cae2b070fd3ef606) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0034.prefab using Guid(33d89472269f9374cae2b070fd3ef606) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b2b999383e4e29290e5f68e762d1033') in 0.041251 seconds
-  Import took 0.045579 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000182 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0036.prefab
-  artifactKey: Guid(1c39642664e5657428f180e73f72f6a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0036.prefab using Guid(1c39642664e5657428f180e73f72f6a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '184d7f0db8d445d32e58442bfd3c5a71') in 0.045215 seconds
-  Import took 0.050113 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000223 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0037.prefab
-  artifactKey: Guid(2bb0342b45499df4ab066633a3bd86a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0037.prefab using Guid(2bb0342b45499df4ab066633a3bd86a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39116147b146a664b45f3afd7a87e41a') in 0.044799 seconds
-  Import took 0.049340 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000201 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0039.prefab
-  artifactKey: Guid(9dbd6d5e1310592459fc1641a63ff1c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0039.prefab using Guid(9dbd6d5e1310592459fc1641a63ff1c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ee14656c8db618e34406363f01d6cdc') in 0.037187 seconds
-  Import took 0.045920 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000202 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0040.prefab
-  artifactKey: Guid(88b93bdcd32ef8040afd38c2befdbddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0040.prefab using Guid(88b93bdcd32ef8040afd38c2befdbddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b191927aad23a5b42c3c4dddc721e15') in 0.037348 seconds
-  Import took 0.041429 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000284 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0038.prefab
-  artifactKey: Guid(5fb29b7e685f63e4ea755a62b3f6d065) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0038.prefab using Guid(5fb29b7e685f63e4ea755a62b3f6d065) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44a289d5fe5fb233dc068568cf8fd7f9') in 0.040509 seconds
-  Import took 0.045388 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000235 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0035.prefab
-  artifactKey: Guid(973c42bd9971c344ab7254d920093fce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0035.prefab using Guid(973c42bd9971c344ab7254d920093fce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'febd46265f7d8b9f2cccd956aa56791b') in 0.071562 seconds
-  Import took 0.083504 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.023241 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0035.prefab
-  artifactKey: Guid(973c42bd9971c344ab7254d920093fce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0035.prefab using Guid(973c42bd9971c344ab7254d920093fce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'febd46265f7d8b9f2cccd956aa56791b') in 0.010611 seconds
-  Import took 0.015785 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.223282 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0041.prefab
-  artifactKey: Guid(1f41f948df854d0438ee8dac6b4c69b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0041.prefab using Guid(1f41f948df854d0438ee8dac6b4c69b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '101b60da3eddd25435c9298f5c547c33') in 0.031118 seconds
-  Import took 0.035076 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000226 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0042.prefab
-  artifactKey: Guid(b7cbf3794b9617541bf54d64f5951cf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0042.prefab using Guid(b7cbf3794b9617541bf54d64f5951cf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bdd7e4da12c52db6456bb1895ac7f8f') in 0.051046 seconds
-  Import took 0.054508 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000332 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0044.prefab
-  artifactKey: Guid(50c92696840470242a9b41e447357e4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0044.prefab using Guid(50c92696840470242a9b41e447357e4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c39cb093f2cd600b8da6e2f144c5cb3') in 0.033547 seconds
-  Import took 0.036784 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000233 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0042.prefab
-  artifactKey: Guid(b7cbf3794b9617541bf54d64f5951cf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0042.prefab using Guid(b7cbf3794b9617541bf54d64f5951cf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bdd7e4da12c52db6456bb1895ac7f8f') in 0.009076 seconds
-  Import took 0.013225 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000366 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0043.prefab
-  artifactKey: Guid(9277e1e7d2d34e44797b0680e4f63e0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0043.prefab using Guid(9277e1e7d2d34e44797b0680e4f63e0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '376441c8bcd6e38d8145ea401343988a') in 0.063128 seconds
-  Import took 0.068289 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000204 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0041.prefab
-  artifactKey: Guid(1f41f948df854d0438ee8dac6b4c69b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0041.prefab using Guid(1f41f948df854d0438ee8dac6b4c69b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '101b60da3eddd25435c9298f5c547c33') in 0.020373 seconds
-  Import took 0.024548 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.157095 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0045.prefab
-  artifactKey: Guid(c8c1d228940d99447a511aa856b4c2d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0045.prefab using Guid(c8c1d228940d99447a511aa856b4c2d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '416866e7e8ebc74f17cfad4089fee8e7') in 0.037746 seconds
-  Import took 0.042287 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000187 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0048.prefab
-  artifactKey: Guid(8dd05dc74754aba44a5eebc1a7e03602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0048.prefab using Guid(8dd05dc74754aba44a5eebc1a7e03602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ced9d27b7ba003e695c7fb717268919') in 0.051923 seconds
-  Import took 0.055569 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000210 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0047.prefab
-  artifactKey: Guid(4947b87286ca25a4894b9bb0ba5902ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0047.prefab using Guid(4947b87286ca25a4894b9bb0ba5902ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bc1e1ed593b1170de6fb45626698a10') in 0.041391 seconds
-  Import took 0.044991 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000237 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0046.prefab
-  artifactKey: Guid(2d6dfe91f0d21e94eb19e6e905f92a64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0046.prefab using Guid(2d6dfe91f0d21e94eb19e6e905f92a64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68550938017b969976e23d25c5e8bb0f') in 0.015608 seconds
-  Import took 0.019766 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.268765 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0049.prefab
-  artifactKey: Guid(8afa9bbb049ce3745b7064c85e66cceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0049.prefab using Guid(8afa9bbb049ce3745b7064c85e66cceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4342b8e8baeb173ff9665deb902bd4a3') in 0.044984 seconds
-  Import took 0.049762 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000204 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0052.prefab
-  artifactKey: Guid(74327b54fdbe35544aa23d4e9c2ef204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0052.prefab using Guid(74327b54fdbe35544aa23d4e9c2ef204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4939733af8a2d79cfa7231b00201af5') in 0.088091 seconds
-  Import took 0.095059 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.004737 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0051.prefab
-  artifactKey: Guid(e1df0b3645afc754388aef7995d1d1ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0051.prefab using Guid(e1df0b3645afc754388aef7995d1d1ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb423de842a0cbb8b340929999fd2971') in 0.045884 seconds
-  Import took 0.051743 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000215 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0050.prefab
-  artifactKey: Guid(ab6f0284b98630a4196333be5fc60cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0050.prefab using Guid(ab6f0284b98630a4196333be5fc60cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '132dc9b694d54bcda3d075e26dd0a4df') in 0.045011 seconds
-  Import took 0.051538 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000865 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0049.prefab
-  artifactKey: Guid(8afa9bbb049ce3745b7064c85e66cceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0049.prefab using Guid(8afa9bbb049ce3745b7064c85e66cceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4342b8e8baeb173ff9665deb902bd4a3') in 0.016193 seconds
-  Import took 0.021252 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.099618 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0053.prefab
-  artifactKey: Guid(659d2b4b43ad40946bba9eeb6fe7e207) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0053.prefab using Guid(659d2b4b43ad40946bba9eeb6fe7e207) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b283f39996df68a167ba364d0351437') in 0.054805 seconds
-  Import took 0.059054 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000172 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0054.prefab
-  artifactKey: Guid(0b193b7e394e51944b7cddfa0b7ad1c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0054.prefab using Guid(0b193b7e394e51944b7cddfa0b7ad1c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b63bb2827d6ee1962b7e59716ca9279') in 0.041011 seconds
-  Import took 0.049722 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000192 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0055.prefab
-  artifactKey: Guid(4ccfdd3dd9e19454e85d0482c253d8bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0055.prefab using Guid(4ccfdd3dd9e19454e85d0482c253d8bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66a430ced294999cd720e344aad215ad') in 0.040724 seconds
-  Import took 0.051539 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000191 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0054.prefab
-  artifactKey: Guid(0b193b7e394e51944b7cddfa0b7ad1c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0054.prefab using Guid(0b193b7e394e51944b7cddfa0b7ad1c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b63bb2827d6ee1962b7e59716ca9279') in 0.020819 seconds
-  Import took 0.024823 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000270 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0056.prefab
-  artifactKey: Guid(43264b09919fee64799decdad311b4f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0056.prefab using Guid(43264b09919fee64799decdad311b4f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f25068c2b46ef171bdc7e09183300011') in 0.068626 seconds
-  Import took 0.073112 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.267634 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0057.prefab
-  artifactKey: Guid(d400aad5adbe65d4dba1d1b4a61f53f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0057.prefab using Guid(d400aad5adbe65d4dba1d1b4a61f53f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb43ecd7ab39486d6b4cd2c2ecd18c52') in 0.034918 seconds
-  Import took 0.038684 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000224 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0059.prefab
-  artifactKey: Guid(7b8a8b1d091530047b2827abb4871ca5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0059.prefab using Guid(7b8a8b1d091530047b2827abb4871ca5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '852009e7cc61599072acf414327c0ffc') in 0.028168 seconds
-  Import took 0.033542 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000280 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0060.prefab
-  artifactKey: Guid(765e6480d74b555438bec8ea893d8a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0060.prefab using Guid(765e6480d74b555438bec8ea893d8a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '810082e9ae800553cc69589447820e57') in 0.039398 seconds
-  Import took 0.043947 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000177 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0058.prefab
-  artifactKey: Guid(625ee6478756bb5449d76eedefc59716) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0058.prefab using Guid(625ee6478756bb5449d76eedefc59716) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58d3ab5b451e99f9e0b2a61a71c7358a') in 0.042902 seconds
-  Import took 0.047324 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.232763 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0061.prefab
-  artifactKey: Guid(5b066d4477a27754ca648b58322a9f7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0061.prefab using Guid(5b066d4477a27754ca648b58322a9f7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64cde5049a1c5dc81960a45a5196cc4b') in 0.040023 seconds
-  Import took 0.044441 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000207 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0063.prefab
-  artifactKey: Guid(f19b32431e8d47147a23b577b87e50e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0063.prefab using Guid(f19b32431e8d47147a23b577b87e50e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca625f39c8b0a82d435aafc4ade2b866') in 0.033251 seconds
-  Import took 0.043376 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000233 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0064.prefab
-  artifactKey: Guid(5c845498be672984889d2ab46b84c39b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0064.prefab using Guid(5c845498be672984889d2ab46b84c39b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '781596879c9d9ea9b0361472a2931dad') in 0.046044 seconds
-  Import took 0.049840 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000196 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0062.prefab
-  artifactKey: Guid(d4eaea67434d8d44b9d288d4ead13ac4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0062.prefab using Guid(d4eaea67434d8d44b9d288d4ead13ac4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df1ee7e68dc101d052f8351974372c4e') in 0.038327 seconds
-  Import took 0.042327 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000197 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0068.prefab
-  artifactKey: Guid(c8d37a8e0d6c0d144ac91f3ebddd95a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0068.prefab using Guid(c8d37a8e0d6c0d144ac91f3ebddd95a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1abeff0f7cbe6410cdfb92951d081be') in 0.030249 seconds
-  Import took 0.039888 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000345 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0066.prefab
-  artifactKey: Guid(55d5cdde82365e640b436016a238e81a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0066.prefab using Guid(55d5cdde82365e640b436016a238e81a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3d7188e53d8c399e6589787a1646fc2') in 0.038418 seconds
-  Import took 0.042936 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000215 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0067.prefab
-  artifactKey: Guid(6cd7432485e719f448c7566313357b59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0067.prefab using Guid(6cd7432485e719f448c7566313357b59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdcd4bd915ec6caadfc752bc0085d8fd') in 0.056551 seconds
-  Import took 0.061793 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000242 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0065.prefab
-  artifactKey: Guid(2b3efbba0e7f4b84db43ecf7a2888a55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0065.prefab using Guid(2b3efbba0e7f4b84db43ecf7a2888a55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '643037e5efe1f37b437962c326ddfa36') in 0.033057 seconds
-  Import took 0.037388 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.317582 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0069.prefab
-  artifactKey: Guid(15566df59040b7943baa70f5b9e32589) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0069.prefab using Guid(15566df59040b7943baa70f5b9e32589) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '811a54844a24511901afd5e063906721') in 0.038834 seconds
-  Import took 0.042487 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000208 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0071.prefab
-  artifactKey: Guid(6f6b32b9cf90c204e93093830ffe0c7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0071.prefab using Guid(6f6b32b9cf90c204e93093830ffe0c7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89bb78f1d04ec0fbef5eecb70fbca839') in 0.035186 seconds
-  Import took 0.052395 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000188 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0072.prefab
-  artifactKey: Guid(45d3cae4d03518e4ba8db27312de0234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0072.prefab using Guid(45d3cae4d03518e4ba8db27312de0234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '032e495d0e6431d8b6f057e853582aed') in 0.032433 seconds
-  Import took 0.036733 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001093 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0070.prefab
-  artifactKey: Guid(ac11f591827659b4993c2608a8fdef85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0070.prefab using Guid(ac11f591827659b4993c2608a8fdef85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edb361e1c666ff68b13cbbea4c615d29') in 0.033323 seconds
-  Import took 0.038671 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.228894 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0073.prefab
-  artifactKey: Guid(03a81f0d4c5f55e459e1e30f4692c2a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0073.prefab using Guid(03a81f0d4c5f55e459e1e30f4692c2a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60866ec0fe14eb79a72d8cd56e1739a2') in 0.037892 seconds
-  Import took 0.042267 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000275 seconds.
   path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0075.prefab
   artifactKey: Guid(795c50d0ee7054a41b356caedd653d02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0075.prefab using Guid(795c50d0ee7054a41b356caedd653d02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67565d718dac05d7688855b48bf17fa6') in 0.016301 seconds
-  Import took 0.020152 seconds .
+Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0075.prefab using Guid(795c50d0ee7054a41b356caedd653d02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4097c4c9d035260341d741a4428e7bf1') in 0.414934 seconds
+  Import took 0.421029 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000833 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0076.prefab
-  artifactKey: Guid(b1f50845027c4ad4c8285276ec5074bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0076.prefab using Guid(b1f50845027c4ad4c8285276ec5074bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4211c2facff1d6a18947ff21779eeba') in 0.031951 seconds
-  Import took 0.035542 seconds .
+  Time since last request: 84.557516 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '261e20381fe4705f1861602520500a06') in 0.003195 seconds
+  Import took 0.010612 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000205 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0074.prefab
-  artifactKey: Guid(03fccbbe52453e042a6925622e77de5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0074.prefab using Guid(03fccbbe52453e042a6925622e77de5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d8d208b493a0e8e4187827fb2be1337') in 0.044512 seconds
-  Import took 0.048688 seconds .
+  Time since last request: 300.907195 seconds.
+  path: Assets/Handpainted_Forest_pack/Map_v1Settings.lighting
+  artifactKey: Guid(e371a62f9998f4f8f95b0bc0d02ffd81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Handpainted_Forest_pack/Map_v1Settings.lighting using Guid(e371a62f9998f4f8f95b0bc0d02ffd81) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
+ -> (artifact id: '21fe9f2e53b8383894c32da5db57d18d') in 0.302528 seconds
+  Import took 0.310414 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.313735 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0077.prefab
-  artifactKey: Guid(8f9305c2d2ad4e648a1cf8c5eea01dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0077.prefab using Guid(8f9305c2d2ad4e648a1cf8c5eea01dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9ca5571f68287e41df4a6176543a8f8') in 0.036100 seconds
-  Import took 0.040462 seconds .
+  Time since last request: 3.897113 seconds.
+  path: Assets/Handpainted_Forest_pack/Showcase_sceneSettings.lighting
+  artifactKey: Guid(64d9b5c04e27a41709be1199b74540bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Handpainted_Forest_pack/Showcase_sceneSettings.lighting using Guid(64d9b5c04e27a41709be1199b74540bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
+ -> (artifact id: '96bcfec06b3ed57d8cf768c80bb692fc') in 0.004459 seconds
+  Import took 0.012131 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000184 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0080.prefab
-  artifactKey: Guid(c95f2db19671cb94794a6d489388ca9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0080.prefab using Guid(c95f2db19671cb94794a6d489388ca9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f21484bcbb4a05581cac26a52cb1b8db') in 0.037985 seconds
-  Import took 0.041606 seconds .
+  Time since last request: 13.721684 seconds.
+  path: Assets/Handpainted_Forest_pack/Showcase_scene.unity
+  artifactKey: Guid(2cb9febfd2d8161438f1ce73b4605529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Handpainted_Forest_pack/Showcase_scene.unity using Guid(2cb9febfd2d8161438f1ce73b4605529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b052a72ba4d33c7fdec9bbd33894a2ac') in 0.002474 seconds
+  Import took 0.009458 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000182 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0078.prefab
-  artifactKey: Guid(666cdcfe134165b4bad82670a22d69d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0078.prefab using Guid(666cdcfe134165b4bad82670a22d69d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1d93f397ebef3a60bdd84a366d44722') in 0.033058 seconds
-  Import took 0.036492 seconds .
+  Time since last request: 92.984726 seconds.
+  path: Assets/Handpainted_Forest_pack/Models/Fir_v1_1.prefab
+  artifactKey: Guid(a47d7ad739a48614babdcba6106ead5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Handpainted_Forest_pack/Models/Fir_v1_1.prefab using Guid(a47d7ad739a48614babdcba6106ead5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ffae50d8458824484bfad61f0ea7f40') in 0.077501 seconds
+  Import took 0.084049 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000199 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0079.prefab
-  artifactKey: Guid(f10539a602c4d854c81ce2d9fe3e755c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0079.prefab using Guid(f10539a602c4d854c81ce2d9fe3e755c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'def4ebbf577bfd9e63ff504bcb79061f') in 0.031342 seconds
-  Import took 0.035236 seconds .
+  Time since last request: 5.291866 seconds.
+  path: Assets/Handpainted_Forest_pack/Models/Fir_v1_1.prefab
+  artifactKey: Guid(a47d7ad739a48614babdcba6106ead5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Handpainted_Forest_pack/Models/Fir_v1_1.prefab using Guid(a47d7ad739a48614babdcba6106ead5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c2b6d7e33de337df4c705dbba2d7098') in 0.035009 seconds
+  Import took 0.041890 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.842541 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0081.prefab
-  artifactKey: Guid(664ed1e845bb0e14389b9e9540d717e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0081.prefab using Guid(664ed1e845bb0e14389b9e9540d717e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e768bd900a0cc0a5e13de6dd4611ab3c') in 0.046461 seconds
-  Import took 0.051478 seconds .
+  Time since last request: 4.296893 seconds.
+  path: Assets/Handpainted_Forest_pack/Models/Fir_v1_1.prefab
+  artifactKey: Guid(a47d7ad739a48614babdcba6106ead5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Handpainted_Forest_pack/Models/Fir_v1_1.prefab using Guid(a47d7ad739a48614babdcba6106ead5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9a81f72d90f221dff82fee6696f7e1b') in 0.032160 seconds
+  Import took 0.038094 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000243 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0084.prefab
-  artifactKey: Guid(d18c829c11f56264b9f5fb656aa1a5e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0084.prefab using Guid(d18c829c11f56264b9f5fb656aa1a5e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1c4b9ac26941f85761165a4c1bc204e') in 0.032093 seconds
-  Import took 0.036902 seconds .
+  Time since last request: 2.443025 seconds.
+  path: Assets/Handpainted_Forest_pack/Models/Fir_v1_1.prefab
+  artifactKey: Guid(a47d7ad739a48614babdcba6106ead5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Handpainted_Forest_pack/Models/Fir_v1_1.prefab using Guid(a47d7ad739a48614babdcba6106ead5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f368fdb19fdbbebfc959cb95352e3e25') in 0.019519 seconds
+  Import took 0.023076 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000228 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0083.prefab
-  artifactKey: Guid(536d9a15c8d49b84a8c8f94f1e4d83dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0083.prefab using Guid(536d9a15c8d49b84a8c8f94f1e4d83dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99272c517fdf7544ff2f0f4626140d4f') in 0.049978 seconds
-  Import took 0.057256 seconds .
+  Time since last request: 4.282086 seconds.
+  path: Assets/Handpainted_Forest_pack/Models/Fir_v1_1.prefab
+  artifactKey: Guid(a47d7ad739a48614babdcba6106ead5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Handpainted_Forest_pack/Models/Fir_v1_1.prefab using Guid(a47d7ad739a48614babdcba6106ead5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d1e0deba7191ea974e91795e8d533a9') in 0.020942 seconds
+  Import took 0.027153 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000158 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0082.prefab
-  artifactKey: Guid(1a68b0668f42e7641ae89ee5c04ccc79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0082.prefab using Guid(1a68b0668f42e7641ae89ee5c04ccc79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4714bfe8e8e46df9ced03d66bff3674d') in 0.044915 seconds
-  Import took 0.063660 seconds .
+  Time since last request: 2.218342 seconds.
+  path: Assets/Handpainted_Forest_pack/Models/Fir_v1_1.prefab
+  artifactKey: Guid(a47d7ad739a48614babdcba6106ead5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Handpainted_Forest_pack/Models/Fir_v1_1.prefab using Guid(a47d7ad739a48614babdcba6106ead5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec1d71dcd2126135505e65bf6934415f') in 0.018163 seconds
+  Import took 0.026999 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000215 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0086.prefab
-  artifactKey: Guid(5e66a66829e080c4cb29a11acb3cac82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0086.prefab using Guid(5e66a66829e080c4cb29a11acb3cac82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c02fba025957417a3e97116f24b85611') in 0.027769 seconds
-  Import took 0.032098 seconds .
+  Time since last request: 3.797828 seconds.
+  path: Assets/Handpainted_Forest_pack/Models/Fir_v1_1.prefab
+  artifactKey: Guid(a47d7ad739a48614babdcba6106ead5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Handpainted_Forest_pack/Models/Fir_v1_1.prefab using Guid(a47d7ad739a48614babdcba6106ead5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '046d536d82d648fa6929d30f30741f02') in 0.018765 seconds
+  Import took 0.023205 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000327 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0088.prefab
-  artifactKey: Guid(302296e659855334bbcc9738ac0eb156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0088.prefab using Guid(302296e659855334bbcc9738ac0eb156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f4a875772702523f048076f5a82c64b') in 0.025359 seconds
-  Import took 0.030748 seconds .
+  Time since last request: 3.628921 seconds.
+  path: Assets/Handpainted_Forest_pack/Models/Fir_v1_1.prefab
+  artifactKey: Guid(a47d7ad739a48614babdcba6106ead5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Handpainted_Forest_pack/Models/Fir_v1_1.prefab using Guid(a47d7ad739a48614babdcba6106ead5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99d56362a37d5f656e21e9d8b1533272') in 0.010607 seconds
+  Import took 0.015004 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000325 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0087.prefab
-  artifactKey: Guid(ce1b07573a677b64f8f7dd9ea1f2fc90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0087.prefab using Guid(ce1b07573a677b64f8f7dd9ea1f2fc90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b2d092c24ed0b7bb3ec7438657b1722') in 0.049553 seconds
-  Import took 0.053772 seconds .
+  Time since last request: 412.854278 seconds.
+  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_angled_36x50/isometric_pixel_flat_0228.png
+  artifactKey: Guid(6fcbdc9bf563dfd4d9943cee5ceb0866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_angled_36x50/isometric_pixel_flat_0228.png using Guid(6fcbdc9bf563dfd4d9943cee5ceb0866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1203c43d64bcae588431a2b8e413b7d6') in 0.983236 seconds
+  Import took 0.988248 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000287 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0085.prefab
-  artifactKey: Guid(838b8a81d3c3dc94d82b6b79e25883e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0085.prefab using Guid(838b8a81d3c3dc94d82b6b79e25883e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90c15243a453fa71b3ac3f40409dbd9c') in 0.039794 seconds
-  Import took 0.044706 seconds .
+  Time since last request: 0.000257 seconds.
+  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_angled_36x50/isometric_pixel_flat_0230.png
+  artifactKey: Guid(cfb5acec3a3dd4547a946d9e1b26d818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_angled_36x50/isometric_pixel_flat_0230.png using Guid(cfb5acec3a3dd4547a946d9e1b26d818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4e8f5b7c3a6a5203459adb6cfea215b') in 0.017373 seconds
+  Import took 0.022770 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 2.878932 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0089.prefab
-  artifactKey: Guid(3ba8c7a15ad0f344a94c0576299dd1b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0089.prefab using Guid(3ba8c7a15ad0f344a94c0576299dd1b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7432a92b9e4cfe66aee64ca643eb61b3') in 0.024111 seconds
-  Import took 0.028547 seconds .
+  Time since last request: 0.000640 seconds.
+  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_angled_36x50/isometric_pixel_flat_0229.png
+  artifactKey: Guid(9f533b5ece9fa344bb1a31c3269d7e72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_angled_36x50/isometric_pixel_flat_0229.png using Guid(9f533b5ece9fa344bb1a31c3269d7e72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '175cdc94e32cfafcfe457b1d255fb081') in 0.103202 seconds
+  Import took 0.108356 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000264 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0091.prefab
-  artifactKey: Guid(1c59ead79b3d1a849a4aec01bda633c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0091.prefab using Guid(1c59ead79b3d1a849a4aec01bda633c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '208e5615e1a049f49da0e474fefc49dd') in 0.026625 seconds
-  Import took 0.030675 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000204 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0089.prefab
-  artifactKey: Guid(3ba8c7a15ad0f344a94c0576299dd1b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0089.prefab using Guid(3ba8c7a15ad0f344a94c0576299dd1b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7432a92b9e4cfe66aee64ca643eb61b3') in 0.012572 seconds
-  Import took 0.016608 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000214 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0090.prefab
-  artifactKey: Guid(86611ecbf203cc341ac9af6f9de44afa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0090.prefab using Guid(86611ecbf203cc341ac9af6f9de44afa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e7f62e5814421b562d4130620fa2388') in 0.031084 seconds
-  Import took 0.035422 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000193 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0092.prefab
-  artifactKey: Guid(ffa368528364b854c908288e59a52b16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0092.prefab using Guid(ffa368528364b854c908288e59a52b16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f462461d5ae50772b43cb8641c3441d') in 0.026818 seconds
-  Import took 0.030491 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.126265 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0093.prefab
-  artifactKey: Guid(3b6522cc3dad5ea4881888de4da1902d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0093.prefab using Guid(3b6522cc3dad5ea4881888de4da1902d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa4989c472bff581eca63b0a342309ea') in 0.056365 seconds
-  Import took 0.059871 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000253 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0095.prefab
-  artifactKey: Guid(e456b29c8de62e14e90abd059c7fa2d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0095.prefab using Guid(e456b29c8de62e14e90abd059c7fa2d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd16fb833b0677b74d192cee69c83ff38') in 0.026323 seconds
-  Import took 0.030671 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000207 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0094.prefab
-  artifactKey: Guid(a53c9049598b01c41b0ea51256d74de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0094.prefab using Guid(a53c9049598b01c41b0ea51256d74de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f61bcea02100d68a7401aeb93ceb14a0') in 0.044787 seconds
-  Import took 0.050454 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000262 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0096.prefab
-  artifactKey: Guid(2405b8e5b4de7404b8a2dabc28c1b8be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0096.prefab using Guid(2405b8e5b4de7404b8a2dabc28c1b8be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f3627e6151c12c17775a2689676b069') in 0.035380 seconds
-  Import took 0.040169 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.028955 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0097.prefab
-  artifactKey: Guid(7cd16c976911af645911df47081c7711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0097.prefab using Guid(7cd16c976911af645911df47081c7711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04d5b059b49237e87ae665f6ba567e49') in 0.032406 seconds
-  Import took 0.041481 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000184 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0098.prefab
-  artifactKey: Guid(33e9f26c75b593c4488891fc722dacc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0098.prefab using Guid(33e9f26c75b593c4488891fc722dacc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7daa4bc03b37fe943dc928769f4c31c') in 0.026134 seconds
-  Import took 0.031112 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000384 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0100.prefab
-  artifactKey: Guid(feb8db5fc29c02142945f95f1cff7933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0100.prefab using Guid(feb8db5fc29c02142945f95f1cff7933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ea39c63091b58613a472c9c50b33e2b') in 0.033642 seconds
-  Import took 0.038710 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000268 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0099.prefab
-  artifactKey: Guid(4e86aeb2354e20748abab78af84cb5e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0099.prefab using Guid(4e86aeb2354e20748abab78af84cb5e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83a558326a9ea7047a1a42fd98c3968c') in 0.030208 seconds
-  Import took 0.035106 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 21.979539 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0126.prefab
-  artifactKey: Guid(176ea6c89370ac648be390bb183d2b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0126.prefab using Guid(176ea6c89370ac648be390bb183d2b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a01e4ee0db1ed7ae2117c55f2221ac82') in 0.151717 seconds
-  Import took 0.162963 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000218 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0145.prefab
-  artifactKey: Guid(eb58a727af11a12499501b1ecce24cc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0145.prefab using Guid(eb58a727af11a12499501b1ecce24cc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '353954f8b87f086a38413298f784dc40') in 0.038312 seconds
-  Import took 0.043361 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000442 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0132.prefab
-  artifactKey: Guid(04ea41f2ec95b0c459b5a237d989c313) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0132.prefab using Guid(04ea41f2ec95b0c459b5a237d989c313) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '534c8bef4b1a36aa7a3b1a9bfd9afbd9') in 0.044997 seconds
-  Import took 0.049162 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000226 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0134.prefab
-  artifactKey: Guid(b92d034480ac6354b943ced993d8dd78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0134.prefab using Guid(b92d034480ac6354b943ced993d8dd78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bee6a8efaa1b183f670551aa1f804bbd') in 0.044331 seconds
-  Import took 0.052711 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000532 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0140.prefab
-  artifactKey: Guid(38f6166af5606dd4b9010dc1201965e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0140.prefab using Guid(38f6166af5606dd4b9010dc1201965e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3cbe120bba933941b42fa951261174b') in 0.189608 seconds
-  Import took 0.198027 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000271 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0129.prefab
-  artifactKey: Guid(0989ac62450fac148801e649bb8a42e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0129.prefab using Guid(0989ac62450fac148801e649bb8a42e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b90c2f94c73a998f5b79c21b408b234a') in 0.152695 seconds
-  Import took 0.158226 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000627 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0130.prefab
-  artifactKey: Guid(fc9ec14f5aa01c34c91cfb05cfef59d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0130.prefab using Guid(fc9ec14f5aa01c34c91cfb05cfef59d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57f31004b4637a6c7a139719a44f21ae') in 0.074456 seconds
-  Import took 0.080765 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000332 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0138.prefab
-  artifactKey: Guid(977e84063ef3ab0458d6424c754f561a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0138.prefab using Guid(977e84063ef3ab0458d6424c754f561a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5643113ceaea8becc5b09fd33ada096') in 0.054676 seconds
-  Import took 0.067426 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000476 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0136.prefab
-  artifactKey: Guid(7e98f529fa684364ebd73fece6f6c056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0136.prefab using Guid(7e98f529fa684364ebd73fece6f6c056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '889b9fe35dc7a1678b5fa1cd6dcbd22f') in 0.046376 seconds
-  Import took 0.051793 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000356 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0139.prefab
-  artifactKey: Guid(5965ae85c030f5740a6a8943ca0b7a70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0139.prefab using Guid(5965ae85c030f5740a6a8943ca0b7a70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01822847811e67b87930cdafcf070b04') in 0.046642 seconds
-  Import took 0.058841 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000282 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0142.prefab
-  artifactKey: Guid(e54063bc18544014d930cd882f0d6b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0142.prefab using Guid(e54063bc18544014d930cd882f0d6b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ad7ac5252e19db47d74e24d49531157') in 0.041939 seconds
-  Import took 0.047405 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000318 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0135.prefab
-  artifactKey: Guid(75c15f59efca2b04095ea2f983bf466d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0135.prefab using Guid(75c15f59efca2b04095ea2f983bf466d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0847788acf86259f6d63189cfe2dbd3e') in 0.041771 seconds
-  Import took 0.050148 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000570 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0144.prefab
-  artifactKey: Guid(1a663dce95ef311488562cbcb20bfc3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0144.prefab using Guid(1a663dce95ef311488562cbcb20bfc3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56dbeb0e6a336bbadab583de2c3e59f3') in 0.045872 seconds
-  Import took 0.055201 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000757 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0149.prefab
-  artifactKey: Guid(aedfe794a29c58e4fbc5aba32140bf57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0149.prefab using Guid(aedfe794a29c58e4fbc5aba32140bf57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '739f9c9f4ac8d40761df6279803a8fea') in 0.033067 seconds
-  Import took 0.039891 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000344 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0133.prefab
-  artifactKey: Guid(cbf98a91ebef640459d2cb5bc9505a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0133.prefab using Guid(cbf98a91ebef640459d2cb5bc9505a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95066908dc01914ea8e0b2e8e805b412') in 0.036731 seconds
-  Import took 0.042316 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000557 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0146.prefab
-  artifactKey: Guid(dc8ea90112dca0c49aff013b971e37b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0146.prefab using Guid(dc8ea90112dca0c49aff013b971e37b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33fcdb2d6e34f7f7decbf52aebbfa812') in 0.042241 seconds
-  Import took 0.047894 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000436 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0141.prefab
-  artifactKey: Guid(afc72a43516d63f419d6a24dd1a51363) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0141.prefab using Guid(afc72a43516d63f419d6a24dd1a51363) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57e6ff39dcf93620845cb7087d2a03ee') in 0.031717 seconds
-  Import took 0.035324 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000203 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0137.prefab
-  artifactKey: Guid(b78c8650bd6acdd44a84e2c1c17fcfd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0137.prefab using Guid(b78c8650bd6acdd44a84e2c1c17fcfd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ed45718aca8fbe0d49f56cf3bf997e1') in 0.036203 seconds
-  Import took 0.039638 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000262 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0131.prefab
-  artifactKey: Guid(f049e91494f8e0a479589ad1392599d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0131.prefab using Guid(f049e91494f8e0a479589ad1392599d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a08a3fd060f5ec6acdc933d84fdf9ff') in 0.057231 seconds
-  Import took 0.063302 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000220 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0147.prefab
-  artifactKey: Guid(577c5fcc14b4bf545b2da51307fadf94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0147.prefab using Guid(577c5fcc14b4bf545b2da51307fadf94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d0c5a437a8f2f0c8eaa5f8be5b535c7') in 0.045020 seconds
-  Import took 0.050287 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000275 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0148.prefab
-  artifactKey: Guid(19815172ac377414088c2a60f0083ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0148.prefab using Guid(19815172ac377414088c2a60f0083ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c0807ff6b4d07d9c78a868c636d0bbe') in 0.044932 seconds
-  Import took 0.051088 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000298 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0127.prefab
-  artifactKey: Guid(0c6b6036a3e14274e8a666ac49e2aed0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0127.prefab using Guid(0c6b6036a3e14274e8a666ac49e2aed0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6eb35f34da860d94f6aea047bf5032c8') in 0.042938 seconds
-  Import took 0.048164 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000245 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0150.prefab
-  artifactKey: Guid(b718930df2ccfb14582ea9afd1279645) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0150.prefab using Guid(b718930df2ccfb14582ea9afd1279645) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3e42b54fe518afc8cf7df2f3a324aa2') in 0.056896 seconds
-  Import took 0.061257 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000228 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0143.prefab
-  artifactKey: Guid(70b7cb6f3ed393d4ebe0af7a669fe8d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0143.prefab using Guid(70b7cb6f3ed393d4ebe0af7a669fe8d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b14d73e3b239f9a45422c353e2f8f20') in 0.047515 seconds
-  Import took 0.053104 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000452 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0128.prefab
-  artifactKey: Guid(3c68a61d8634d0f42a6720728db7c7f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0128.prefab using Guid(3c68a61d8634d0f42a6720728db7c7f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eec30c55e0da2e56d499ce1515eee2ba') in 0.042581 seconds
-  Import took 0.048332 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 25.141134 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0101.prefab
-  artifactKey: Guid(43794835a31ca7341810506149b32389) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0101.prefab using Guid(43794835a31ca7341810506149b32389) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a8f16096d0d08ab9736551f93201a4d') in 0.024861 seconds
-  Import took 0.029662 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000288 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0102.prefab
-  artifactKey: Guid(f02a420573d14644f95cba51a6afb646) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0102.prefab using Guid(f02a420573d14644f95cba51a6afb646) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'add644f334c1787c733a57cb3f9c0d3a') in 0.046698 seconds
-  Import took 0.051784 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 45.739587 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0087.prefab
-  artifactKey: Guid(ce1b07573a677b64f8f7dd9ea1f2fc90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0087.prefab using Guid(ce1b07573a677b64f8f7dd9ea1f2fc90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e9f1474767f620c6aaea83bb4518f37') in 0.014276 seconds
-  Import took 0.019584 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000217 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0088.prefab
-  artifactKey: Guid(302296e659855334bbcc9738ac0eb156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0088.prefab using Guid(302296e659855334bbcc9738ac0eb156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9438048ed10a3e2efc520aed393fc963') in 0.012788 seconds
-  Import took 0.019554 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000276 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0046.prefab
-  artifactKey: Guid(2d6dfe91f0d21e94eb19e6e905f92a64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Prefabs/assets_1024x1024/isometric_0046.prefab using Guid(2d6dfe91f0d21e94eb19e6e905f92a64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c33ae46950cc08b4f89c67ed69263bbc') in 0.016382 seconds
-  Import took 0.021689 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 40.700707 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0046.png
-  artifactKey: Guid(d11968ec1d85a8d40af80f586831097a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0046.png using Guid(d11968ec1d85a8d40af80f586831097a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7fe348db7d5eea9d9614c87ccdb1216') in 0.010063 seconds
-  Import took 0.014586 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.012584 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0087.png
-  artifactKey: Guid(e158764228ff5194fa693e11eb884233) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0087.png using Guid(e158764228ff5194fa693e11eb884233) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14f87047d3ba2c41dd8080e0f6f65d27') in 0.056335 seconds
-  Import took 0.061787 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000231 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0088.png
-  artifactKey: Guid(bbfbe621a48eb4e4bad7f142b59167ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0088.png using Guid(bbfbe621a48eb4e4bad7f142b59167ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '736cebbce262acddd1030474ef2dedb2') in 0.008668 seconds
-  Import took 0.013034 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.014665 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.74 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.278 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.90 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 161.5 MB.
-System memory in use after: 161.4 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2266.
-Total: 2.488919 ms (FindLiveObjects: 0.315143 ms CreateObjectMapping: 0.119104 ms MarkObjects: 1.917676 ms  DeleteObjects: 0.135480 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 1182.550080 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0075.png
-  artifactKey: Guid(b66ecbabe3893624d81e108ba30125ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0075.png using Guid(b66ecbabe3893624d81e108ba30125ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd60a9e00210c9a9cce2308414e7a26f2') in 0.108820 seconds
-  Import took 0.115738 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 51415.168139 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0218.asset
-  artifactKey: Guid(a0990aa7aef9c4998ab96bc5caf014c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0218.asset using Guid(a0990aa7aef9c4998ab96bc5caf014c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe91b86f6938541afbc5cb0164877ce9') in 1.255089 seconds
-  Import took 1.377410 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 546.986331 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0209.asset
-  artifactKey: Guid(3808e1036559b4ccda945aa2aa7192d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0209.asset using Guid(3808e1036559b4ccda945aa2aa7192d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47e64ea30b0194fb11b25ec7000c3563') in 0.026690 seconds
-  Import took 0.035913 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 38.280667 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0209.png
-  artifactKey: Guid(4a54843975b88a941b95f04980eb101f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0209.png using Guid(4a54843975b88a941b95f04980eb101f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a9c6ca4d20a3d241253f3410ee3cba6') in 0.036603 seconds
-  Import took 0.042007 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 92.557816 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0087.asset
-  artifactKey: Guid(7e8d26c9de5a540f58991165da29a617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0087.asset using Guid(7e8d26c9de5a540f58991165da29a617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db92b87be27b7ed5c6eca03080de0c77') in 0.011891 seconds
-  Import took 0.023512 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.084580 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0088.asset
-  artifactKey: Guid(7b9ed799514af4457822afd2a16a1e4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0088.asset using Guid(7b9ed799514af4457822afd2a16a1e4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44b5d7923c33ec66d19dad18bddf8c69') in 0.019309 seconds
-  Import took 0.023789 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 97654.640249 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0036.png
-  artifactKey: Guid(bdef6fb3855cc8d4b8e2baed47bbec70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0036.png using Guid(bdef6fb3855cc8d4b8e2baed47bbec70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c645be2c28fe5517f139bb25b65b6995') in 0.208307 seconds
-  Import took 0.290727 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.669010 seconds.
-  path: Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0036.asset
-  artifactKey: Guid(c458f2a6fdc884d20a42c540be8a316a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets_DevilsWorkShop/Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04/Textures/assets_1024x1024/isometric_0036.asset using Guid(c458f2a6fdc884d20a42c540be8a316a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d31d9de8a5c3cefeca378510bf3eb68') in 0.052416 seconds
-  Import took 0.063928 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 897.236347 seconds.
+  Time since last request: 77.861475 seconds.
   path: ProjectSettings/TagManager.asset
   artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3be35322f6257a9f44561c54a47ec410') in 0.071402 seconds
-  Import took 0.104592 seconds .
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '082447fb32d28a02cefca8d69db189fd') in 0.264572 seconds
+  Import took 0.272618 seconds .
 
