@@ -1505,3 +1505,75 @@ System memory in use after: 175.1 MB.
 Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2378.
 Total: 2.660920 ms (FindLiveObjects: 0.625858 ms CreateObjectMapping: 0.184691 ms MarkObjects: 1.726574 ms  DeleteObjects: 0.121679 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 1643.010832 seconds.
+  path: Assets/Isometric Nature Pack 2.0/Sprites/Enviroument tiles/Winter tiles/trees/tree_winter(1).png
+  artifactKey: Guid(0d33f0b357f0028428df6c91f92ce412) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Isometric Nature Pack 2.0/Sprites/Enviroument tiles/Winter tiles/trees/tree_winter(1).png using Guid(0d33f0b357f0028428df6c91f92ce412) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33a171cd8fa6600585f6c02d542e7a7a') in 0.119433 seconds
+  Import took 0.143123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Isometric Nature Pack 2.0/Sprites/Enviroument tiles/Winter tiles/trees/tree_winter(2).png
+  artifactKey: Guid(9b6a0ddcb9dd50a458384182dddef928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Isometric Nature Pack 2.0/Sprites/Enviroument tiles/Winter tiles/trees/tree_winter(2).png using Guid(9b6a0ddcb9dd50a458384182dddef928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0c732cedb23795c1775d2390ec511b6') in 0.077527 seconds
+  Import took 0.081744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002557 seconds.
+  path: Assets/Isometric Nature Pack 2.0/Sprites/Enviroument tiles/Winter tiles/trees/tree_winter(4).png
+  artifactKey: Guid(9d22383421d30474bb292f05a0eb8104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Isometric Nature Pack 2.0/Sprites/Enviroument tiles/Winter tiles/trees/tree_winter(4).png using Guid(9d22383421d30474bb292f05a0eb8104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9ac580a14799fc45581df216f22b739') in 0.042073 seconds
+  Import took 0.048570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Isometric Nature Pack 2.0/Sprites/Enviroument tiles/Winter tiles/trees/tree_winter(3).png
+  artifactKey: Guid(c25ca807622a86f4b8dd944d75415ae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Isometric Nature Pack 2.0/Sprites/Enviroument tiles/Winter tiles/trees/tree_winter(3).png using Guid(c25ca807622a86f4b8dd944d75415ae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69c59bcf1a2d8529528d004b44b646f4') in 0.038138 seconds
+  Import took 0.042114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Isometric Nature Pack 2.0/Sprites/Enviroument tiles/Winter tiles/trees/tree_winter(6).png
+  artifactKey: Guid(8ec87bfd70e30b94a85c246499f767bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Isometric Nature Pack 2.0/Sprites/Enviroument tiles/Winter tiles/trees/tree_winter(6).png using Guid(8ec87bfd70e30b94a85c246499f767bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1babad93f207a4d8484174dc18556536') in 0.022388 seconds
+  Import took 0.026683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001435 seconds.
+  path: Assets/Isometric Nature Pack 2.0/Sprites/Enviroument tiles/Winter tiles/trees/tree_winter(5).png
+  artifactKey: Guid(933ee06a82908db4281f707353e951fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Isometric Nature Pack 2.0/Sprites/Enviroument tiles/Winter tiles/trees/tree_winter(5).png using Guid(933ee06a82908db4281f707353e951fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8caead789a9b34a43b5ab7096d45334e') in 0.040138 seconds
+  Import took 0.044962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 114.416668 seconds.
+  path: Assets/Isometric Nature Pack 2.0/Sprites/River tiles/river(8).png
+  artifactKey: Guid(e457755be52a40f4a8e613107368da07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Isometric Nature Pack 2.0/Sprites/River tiles/river(8).png using Guid(e457755be52a40f4a8e613107368da07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3f9ea9fa946454c1b8036135660611c') in 0.018534 seconds
+  Import took 0.024549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.092272 seconds.
+  path: Assets/Isometric Nature Pack 2.0/Sprites/River tiles/river(8).png
+  artifactKey: Guid(e457755be52a40f4a8e613107368da07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Isometric Nature Pack 2.0/Sprites/River tiles/river(8).png using Guid(e457755be52a40f4a8e613107368da07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3f9ea9fa946454c1b8036135660611c') in 0.015724 seconds
+  Import took 0.020727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.302398 seconds.
+  path: Assets/Isometric Nature Pack 2.0/Sprites/River tiles/river(8).asset
+  artifactKey: Guid(8b5f77b127f674141ad3c9d662b0f31d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Isometric Nature Pack 2.0/Sprites/River tiles/river(8).asset using Guid(8b5f77b127f674141ad3c9d662b0f31d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e68e233d36b34c4b1897216f20b64e1') in 0.053414 seconds
+  Import took 0.060133 seconds .
+
