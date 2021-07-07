@@ -50,3 +50,6 @@ TagManager:
   - name: trees
     uniqueID: 292546367
     locked: 0
+  - name: character
+    uniqueID: 888056377
+    locked: 0
