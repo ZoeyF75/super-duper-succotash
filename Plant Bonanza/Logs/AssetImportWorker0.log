@@ -151,3 +151,35 @@ Received Import Request.
 Start importing Assets/sprites/idle1.png using Guid(754641b42eeb5487a9f766d76f19b841) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32bf209426ddf465da531f48805695ef') in 0.067247 seconds
   Import took 0.074824 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 151138.450374 seconds.
+  path: Assets/sprites/Idle64.png
+  artifactKey: Guid(d7298996210964aaf8122913b343976f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprites/Idle64.png using Guid(d7298996210964aaf8122913b343976f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c253d14abd8464fbc909108cf65cc84') in 0.315573 seconds
+  Import took 0.523082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.468957 seconds.
+  path: Assets/sprites/Idle2-64.png
+  artifactKey: Guid(71f5255ec34c2467c953b6fcc3972be3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprites/Idle2-64.png using Guid(71f5255ec34c2467c953b6fcc3972be3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c449c671b065d29b0b21ac9a4fca4e51') in 0.029808 seconds
+  Import took 0.039189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003079 seconds.
+  path: Assets/sprites/Idle2-64.png
+  artifactKey: Guid(71f5255ec34c2467c953b6fcc3972be3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprites/Idle2-64.png using Guid(71f5255ec34c2467c953b6fcc3972be3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c449c671b065d29b0b21ac9a4fca4e51') in 0.023459 seconds
+  Import took 0.032773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 65.315860 seconds.
+  path: Assets/sprites/Idle64.png
+  artifactKey: Guid(d7298996210964aaf8122913b343976f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprites/Idle64.png using Guid(d7298996210964aaf8122913b343976f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a772f9d709b18a059533bd419bb1d0c') in 0.029088 seconds
+  Import took 0.040962 seconds .
+
